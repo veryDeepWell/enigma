@@ -1,0 +1,17 @@
+F:\_pro\_new\testForEnigma\bin\Debug\net6.0-windows\testForEnigma.exe
+F:\_pro\_new\testForEnigma\bin\Debug\net6.0-windows\testForEnigma.deps.json
+F:\_pro\_new\testForEnigma\bin\Debug\net6.0-windows\testForEnigma.runtimeconfig.json
+F:\_pro\_new\testForEnigma\bin\Debug\net6.0-windows\testForEnigma.dll
+F:\_pro\_new\testForEnigma\bin\Debug\net6.0-windows\testForEnigma.pdb
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\testForEnigma.csproj.AssemblyReference.cache
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\testForEnigma.Form1.resources
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\testForEnigma.csproj.GenerateResource.cache
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\testForEnigma.GeneratedMSBuildEditorConfig.editorconfig
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\testForEnigma.AssemblyInfoInputs.cache
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\testForEnigma.AssemblyInfo.cs
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\testForEnigma.csproj.CoreCompileInputs.cache
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\testForEnigma.dll
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\refint\testForEnigma.dll
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\testForEnigma.pdb
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\testForEnigma.genruntimeconfig.cache
+F:\_pro\_new\testForEnigma\obj\Debug\net6.0-windows\ref\testForEnigma.dll
